@@ -9,7 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 ## Dashboard Financeiro - Distribuidora
 
 ### Exemplo de funcionamento
-![Print do Dashboard Financeiro](Financeiro.png)
+![Print do Dashboard Financeiro](BI_Financeiro/Financeiro.png)
 
 Acesse o dashboard completo neste link: [Dashboard Financeiro](https://app.powerbi.com/reportEmbed?reportId=4c82f488-5edb-4329-8c8c-e9a6534f26d5&autoAuth=true&ctid=459a2760-1c87-4261-8ffc-987f128e9c61)
 
