@@ -13,13 +13,13 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 ![Print do Dashboard Financeiro](BI_Financeiro/Financeiro.png)
 
 ## Tela 02
-![Print do Dashboard Financeiro](BI_Financeiro/tela 2.png)
+![Print do Dashboard Tela 2](BI_Financeiro/tela2.png)
 
 ## Tela 03
-![Print do Dashboard Financeiro](BI_Financeiro/tela 3.png)
+![Print do Dashboard Tela 3](BI_Financeiro/tela3.png)
 
 ## Tela 04
-![Print do Dashboard Financeiro](BI_Financeiro/tela 4.png)
+![Print do Dashboard Tela 4](BI_Financeiro/tela4.png)
 
 Acesse o dashboard completo neste link: [Dashboard Financeiro](https://app.powerbi.com/reportEmbed?reportId=4c82f488-5edb-4329-8c8c-e9a6534f26d5&autoAuth=true&ctid=459a2760-1c87-4261-8ffc-987f128e9c61)
 
